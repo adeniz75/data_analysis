@@ -1,0 +1,166 @@
+code;name;;en_name;de_desc;de_link;en_desc;en_link;de_syn;en_syn
+01;Wien <01>;;Vienna <01>;;;;;;
+70;Burgenland (ab 05/03) <70>;;Burgenland (beg.05/03) <70>;;;;;;
+71;Kärnten (ab 05/03) <71>;;Carinthia (beg.05/03) <71>;;;;;;
+72;Niederösterreich (ab 05/03) <72>;;Lower Austria (beg.05/03) <72>;;;;;;
+73;Oberösterreich (ab 05/03) <73>;;Upper Austria (beg.05/03) <73>;;;;;;
+74;Salzburg (ab 05/03) <74>;;Salzburg (beg.05/03) <74>;;;;;;
+75;Steiermark (ab 05/03) <75>;;Styria (beg.05/03) <75>;;;;;;
+76;Tirol (ab 05/03) <76>;;Tyrol (beg.05/03) <76>;;;;;;
+77;Vorarlberg (ab 05/03) <77>;;Vorarlberg (beg.05/03) <77>;;;;;;
+02;Österreich ohne Wien (bis 04/03) <02>;;Austria except Vienna (till 04/03) <02>;;;;;;
+80;Bayern (ab 05/03) <80>;;Bavaria (beg.05/03) <80>;"Bundesland/Region Bayern enthält folgende 5-stellige PLZ
+beginnend mit: 80-87,89,90,91,92,93,94,95,96,97
+
+";;"The Land/region of Bavaria has the following 5-digit post codes
+beginning with 80-87,89,90,91,92,93,94,95,96,97
+
+";;;
+81;Baden Württemberg (ab 05/03) <81>;;Baden Württemberg (beg.05/03) <81>;"Bundesland/Region Baden-Württemberg enthält folgende 5-stellige PLZ
+beginnend mit: 70,71,72,73,74,75,76,77,78,79,88
+
+";;"The Land/region of Baden-Württemberg has the following 5-digit post
+codes beginning with 70,71,72,73,74,75,76,77,78,79,88
+
+";;;
+82;Nordrhein-Westfalen (ab 05/03) <82>;;Nordrhein-Westfalen (beg.05/03) <82>;"Bundesland/Region Nordrhein-Westfalen enthält folgende 5-stellige PLZ
+beginnend mit: 32, 33, 40, 41, 42, 44 - 48, 50 - 53, 57 - 59
+
+";;"The Land/region of Nordrhein-Westfalen has the following 5-digit post
+codes beginning with 32, 33, 40, 41, 42, 44 - 48, 50 - 53, 57 - 59
+
+";;;
+83;Mitteldeutschland (ab 05/03) <83>;;Central Germany (beg.05/03) <83>;"Bundesland/Region Mitteldeutschland enthält folgende 5-stellige PLZ
+beginnend mit: 34 - 36, 54 - 56, 60,61,63 - 69
+
+";;"The Land/region of Central Germany has the following 5-digit post
+codes beginning with 34 - 36, 54 - 56, 60,61,63 - 69
+
+";;;
+84;Norddeutschland (ab 05/03) <84>;;Northern Germany (beg.05/03) <84>;"Bundesland/Region Norddeutschland enthält folgende 5-stellige PLZ
+beginnend mit: 20,21,22,23,24,25,26,27,28,29,30,31,37,38,49
+
+";;"The Land/region of Northern Germany has the following 5-digit post
+codes beginning with 20,21,22,23,24,25,26,27,28,29,30,31,37,38,49
+
+";;;
+85;Ostdeutschland (ab 05/03) <85>;;Eastern Germany (beg.05/03) <85>;"Bundesland/Region Ostdeutschland enthält folgende 5-stellige PLZ
+beginnend mit: 01 - 09, 14 - 19, 39, 98, 99
+
+";;"The Land/region of Eastern Germany has the following 5-digit post
+codes beginning with 01 - 09, 14 - 19, 39, 98, 99
+
+";;;
+53;Berlin (bis 04/91 und ab 05/03) <53>;;Berlin (till 4/91) <53>;"ab Mai 1991 in Ausprägung 6 'Bundesrepublik Deutschland' enthalten
+
+
+Bundesland/Region Berlin enthält folgende 5-stellige PLZ
+beginnend mit: 10,12,13,140,141
+
+";;"as of May 1991 included in item 6 'Federal Republic of Germany'
+
+
+The Land/region of Berlin has the following 5-digit post codes
+beginning with 10,12,13,140,141
+
+";;;
+12;Deutschland (bis 04/03) <12>;;Germany <12>;"bis April 1991 bzw. Winterhalbjahr 1991 siehe auch Ausprägung 7 'Berlin'
+";;"up to April 1991 and winter semester 1991 also see item 7 'Berlin'
+";;;
+56;Arabische Länder in Asien <56>;;Arab countries in Asia <56>;"Bis April 1985 in Ausprägung 39 'übriges Ausland' enthalten
+";;"up to April 1985 included in item 39 'other foreign countries'
+";;;
+04;Argentinien (bis 10/02) <04>;;Argentina <04>;;;;;;
+60;Australien (ab 11/97) <60>;;Australia (beg.11/97) <60>;;;;;;
+05;Australien und Neuseeland (bis 10/97) <05>;;Australia and New Zealand (till 10/97) <05>;;;;;;
+50;Baltische Staaten (ab 5/92 bis 10/02) <50>;;Baltic states (beg.5/92 to 10/02) <50>;;;;;;
+62;Belgien (ab 11/97) <62>;;Belgium (beg.11/97) <62>;;;;;;
+07;Brasilien (bis 10/02) <07>;;Brazil <07>;;;;;;
+94;Brasilien (ab 11/10) <94>;;;;;;;;
+08;Bulgarien (bis 10/02 und ab 11/04) <08>;;Bulgaria (till 10/02 and beg. 11/04) <08>;;;;;;
+67;China (ab 05/03) <67>;;China (beg.05/03) <67>;;;;;;
+11;Dänemark <11>;;Denmark <11>;;;;;;
+86;Estland (ab 11/04) <86>;;Estonia (beg.11/04) <86>;;;;;;
+13;Finnland <13>;;Finland <13>;;;;;;
+14;Frankreich (einschl. Monaco) <14>;;France (incl.Monaco) <14>;;;;;;
+15;Griechenland <15>;;Greece <15>;;;;;;
+30;GUS (bis 10/04) <30>;;Russian Federation <30>;"bis April 1992 einschl. Ausprägung 46 'Baltische Staaten'
+";;"up to April 1992 including item 46 'Baltic states'
+";;;
+87;übrige GUS (ab 11/04) <87>;;Other GUS countries (beg.11/04) <87>;;;;;;
+18;Irland (Republik) <18>;;Ireland, Rep. <18>;;;;;;
+49;Island (ab 11/92) <49>;;Iceland (beg.11/92) <49>;;;;;;
+19;Israel <19>;;Israel <19>;;;;;;
+20;Italien <20>;;Italy <29>;;;;;;
+21;Japan <21>;;Japan <21>;;;;;;
+22;restl. Südosteuropa <22>;;other South East Europe <22>;"bis April 1992 einschl. Ausprägungen 48 'Kroatien' und 49 'Slowenien'
+";;;;;
+23;Kanada <23>;;Canada <23>;;;;;;
+51;Kroatien (ab 5/92) <51>;;Croatia (beg.5/92) <51>;;;;;;
+88;Lettland (ab 11/04) <88>;;Latvia (beg.11/04) <88>;;;;;;
+89;Litauen (ab 11/04) <89>;;Lithuania (beg.11/04) <89>;;;;;;
+63;Luxemburg (ab 11/97) <63>;;Luxembourg (beg.11/97) <63>;;;;;;
+90;Malta (ab 11/04) <90>;;Malta (beg.11/04) <90>;;;;;;
+24;Mexiko (bis 10/02) <24>;;Mexico <24>;;;;;;
+61;Neuseeland (ab 11/97) <61>;;New Zealand (beg.11/97) <61>;;;;;;
+25;Niederlande <25>;;Netherlands <25>;;;;;;
+26;Norwegen <26>;;Norway <26>;;;;;;
+27;Polen <27>;;Poland <27>;;;;;;
+28;Portugal <28>;;Portugal <28>;;;;;;
+29;Rumänien (bis 04/03 und ab 11/04) <29>;;Romania <29>;;;;;;
+91;Russland (ab 11/04) <91>;;Russia (beg.11/04) <91>;;;;;;
+95;Saudi-Arabien (ab 11/10) <95>;;;;;;;;
+31;Schweden <31>;;Sweden <31>;;;;;;
+32;Schweiz und Liechtenstein <32>;;Switzerland and Liechtenstein <32>;;;;;;
+10;Slowakei (ab 5/93) <10>;;Slovakia (beg.5/93) <10>;;;;;;
+52;Slowenien (ab 5/92) <52>;;Slovenia (beg.5/92) <52>;;;;;;
+33;Spanien <33>;;Spain <33>;;;;;;
+34;Südafrika <34>;;South Africa <34>;;;;;;
+17;Indien (bis 10/04 Südasien) <17>;;India and Pakistan <17>;;;;;;
+64;Südkorea (ab 11/97) <64>;;South Korea (beg.11/97) <64>;;;;;;
+59;Südostasien (ab 5/91) <59>;;South-eastern Asia (beg.5/91) <59>;"bis April 1991 in Ausprägung 43 'übriges Asien'enthalten
+";;;;;
+65;Taiwan (ab 11/97) <65>;;Taiwan (beg.11/97) <65>;;;;;;
+09;Tschechische Republik (ab 5/93) <09>;;Czech Rep. (beg.5/93) <09>;;;;;;
+36;Türkei <36>;;Turkey <36>;;;;;;
+92;Ukraine (ab 11/04) <92>;;Ukraine (beg.11/04) <92>;;;;;;
+38;Ungarn <38>;;Hungary <38>;;;;;;
+39;USA <39>;;USA <39>;;;;;;
+96;Ver.Arabische Emirate (VAE) (ab 11/10) <96>;;;;;;;;
+16;Vereinigtes Königreich <16>;;United Kingdom <16>;;;;;;
+93;Zypern (ab 11/04) <93>;;Cyprus (beg.11/04) <93>;;;;;;
+57;übriges Afrika <57>;;Other African countries <57>;"Bis April 1985 in Ausprägung 39 'übriges Ausland' enthalten
+";;"up to April 1985 included in item 39 'other foreign countries'
+";;;
+58;übriges Asien <58>;;Other Asian countries <58>;"Bis April 1985 in Ausprägung 39 'übriges Ausland' enthalten
+
+ab Mai 1991 siehe auch Ausprägung 45 'Südostasien'
+ab Mai 1992 einschl. Iran
+";;"up to April 1985 included in item 39 'other foreign countries'
+
+as of May 1991 also see item 45 'South-eastern Asia'
+as of May 1992 including Iran
+";;;
+66;übriges Ozeanien (ab 11/97 bis 04/03) <66>;;Other Oceania (beg.11/97 to 04/03) <66>;;;;;;
+37;Zentral- u.Südamerika(-10/02 Übr.Südam.)<37>;;Other Latin American countries <37>;"bis 1978 sowie ab Mai 1992 einschl. Venezuela
+";;"up to 1978 and as of May 1992 including Venezuela
+";;;
+40;übriges Ausland <40>;;Other foreign countries <40>;"bis 1978 einschl. Iran
+bis April 1985 einschl. sonstiges Afrika, arabische Länder in Asien
+sowie sonstiges Asien
+";;"up to 1978 including Iran
+up to April 1985 including other African countries, Arabic countries
+in Asia as well as other Asian countries
+";;;
+03;Ägypten (bis 10/97) <03>;;Egypt (till 10/97) <03>;;;;;;
+06;Belgien und Luxemburg (bis 10/97) <06>;;Belgium, Luxembourg (till 10/97) <06>;;;;;;
+35;CSFR (bis 4/93) <35>;;Czechoslovakia (till 4/93) <35>;;;;;;
+54;Iran (bis 4/92) <54>;;Iran (till 4/92) <54>;"bis 1978 in Ausprägung 39 'übriges Ausland' enthalten
+";;"up to 1978 included in item 39 'other foreign countries'
+";;;
+55;Venezuela (bis 4/92) <55>;;Venezuela (till 4/92) <55>;"bis 1978 in Ausprägung 38 'Südamerika' enthalten
+";;"up to 1978 included in item 38 'other Latin American countries'
+";;;
+47;übrige EFTA (von 11/92 bis 10/97) <47>;;Other EFTA countries (11/92 - 10/97) <47>;;;;;;
+48;übrige EG (von 11/92 bis 10/97) <48>;;Other EC countries (11/92 - 10/97) <48>;;;;;;
+0;Nicht klassifizierbar <0>;;Not classifiable <0>;;;;;;
